@@ -1,5 +1,5 @@
 # Mammotion-Errors
-An attempt to centralize the error codes you can get from the Mammotion line of lawn mower robots.
+An attempt to centralize the error codes you can get from the Mammotion line of lawn mower robots. (this first dump was formatted from me gathering info from the web manually, then formatted using chatgpt, so, i havent vetted it yet)
 
 Programmatically or via the app, you can see the error description and code, but if youre into home automation (and its more likely that people owning a robor lawn more ARE into home automation, in my experience!), it would be nice to have a way to look up what an error number means.  
 
@@ -18,3 +18,5 @@ Heres the fields:
 4. Error Text - If Mammotion supplies a text string to go with it, put it here. IF the ERROR IS UNKNOWN, state as much: "UNKNOWN"
 
 As far as different languages i think its bettter to separate them by file... 
+
+NOTE - if you use the Home Assistant Plugin (https://github.com/mikey0000/Mammotion-HA) you can use the logbook or history to see your previously recorded errors and codes (add the last_error and last_error_code to the history chart to correlate them). If you pipe your HA info to Prometheus/VictoriaMetrics its possible to get a list of all the numbers and text using PromQL too..
