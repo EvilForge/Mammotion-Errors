@@ -181,8 +181,8 @@
     },
     {
         "code": "7000107",
-        "severity": "ERROR",
+        "severity": "INFO",
         "model": "LUBA 2 AWD 5000HX",
-        "text": "The robot is stuck on the charging station"
+        "text": "UNKNOWN"
     }
 ]
