@@ -19,4 +19,4 @@ Heres the fields:
 
 As far as different languages i think its bettter to separate them by file... 
 
-NOTE - if you use the Home Assistant Plugin (https://github.com/mikey0000/Mammotion-HA) you can use the logbook or history to see your previously recorded errors and codes (add the last_error and last_error_code to the history chart to correlate them). If you pipe your HA info to Prometheus/VictoriaMetrics its possible to get a list of all the numbers and text using PromQL too..
+NOTE - if you use the Home Assistant Plugin (https://github.com/mikey0000/Mammotion-HA) you can use the logbook or history to see your previously recorded errors and codes (add the last_error and last_error_code to the history chart to correlate them). If you pipe your HA info to Prometheus/VictoriaMetrics its possible to get a list of all the numbers using PromQL too..
