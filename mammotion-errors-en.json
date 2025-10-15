@@ -66,10 +66,28 @@
         "text": "The battery is too low / low electrical recharging. Robot will recharge then finish."
     },
     {
+        "code": "1008",
+        "severity": "ERROR",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Left wheel stuck"
+    },
+    {
+        "code": "1010",
+        "severity": "ERROR",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Poor positioning prevents task start."
+    },
+    {
         "code": "1019",
         "severity": "ERROR",
         "model": "LUBA 2 AWD 5000HX",
         "text": "Can't execute action (mapping issue or locked)"
+    },
+    {
+        "code": "1021",
+        "severity": "INFO",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Th3 3D obstacle avoidance function is disabled due to low image quality."
     },
     {
         "code": "1026",
@@ -88,6 +106,12 @@
         "severity": "ERROR",
         "model": "LUBA 2 AWD 5000HX",
         "text": "Out of task area / in a no-go zone"
+    },
+    {
+        "code": "1101",
+        "severity": "ERROR",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Lack of connection channel between charging station and task area."
     },
     {
         "code": "1139",
@@ -154,6 +178,12 @@
         "severity": "ERROR",
         "model": "LUBA 2 AWD 5000HX",
         "text": "Charging station has been moved"
+    },
+    {
+        "code": "1302",
+        "severity": "ERROR",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Auto direction error"
     },
     {
         "code": "1420",
@@ -226,6 +256,18 @@
         "severity": "ERROR",
         "model": "LUBA 2 AWD 5000HX",
         "text": "Poor Bluetooth connection"
+    },
+    {
+        "code": "50611",
+        "severity": "ERROR",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Firmware update error."
+    },
+    {
+        "code": "50612",
+        "severity": "ERROR",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Firmware update error."
     },
     {
         "code": "7000107",
