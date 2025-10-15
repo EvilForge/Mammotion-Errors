@@ -81,7 +81,7 @@
         "code": "1068",
         "severity": "ERROR",
         "model": "LUBA 2 AWD 5000HX",
-        "text": "The camera appears to be dirty."
+        "text": "Perimeter lap issue during zigzag start."
     },
     {
         "code": "1100",
