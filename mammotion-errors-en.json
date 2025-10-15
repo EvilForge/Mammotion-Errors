@@ -54,10 +54,16 @@
         "text": "Trigger storm water sensor (wet conditions detected)"
     },
     {
+        "code": "1004",
+        "severity": "INFO",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Unknown"
+    },
+    {
         "code": "1005",
         "severity": "INFO",
         "model": "LUBA 2 AWD 5000HX",
-        "text": "The battery is too low / low electrical recharging"
+        "text": "The battery is too low / low electrical recharging. Robot will recharge then finish."
     },
     {
         "code": "1019",
@@ -75,13 +81,37 @@
         "code": "1068",
         "severity": "ERROR",
         "model": "LUBA 2 AWD 5000HX",
-        "text": "Perimeter lap issue during zig-zag start (navigation/positioning)"
+        "text": "The camera appears to be dirty."
     },
     {
         "code": "1100",
         "severity": "ERROR",
         "model": "LUBA 2 AWD 5000HX",
         "text": "Out of task area / in a no-go zone"
+    },
+    {
+        "code": "1139",
+        "severity": "ERROR",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Adaptive zigzag path generation failed."
+    },
+    {
+        "code": "1161",
+        "severity": "ERROR",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Unknown"
+    },
+    {
+        "code": "1169",
+        "severity": "ERROR",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Unknown"
+    },
+    {
+        "code": "1200",
+        "severity": "ERROR",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "No IR signal detected, recharge failed."
     },
     {
         "code": "1201",
@@ -96,10 +126,22 @@
         "text": "Cutting plate stuck (foreign object)"
     },
     {
+        "code": "1203",
+        "severity": "ERROR",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Unknown"
+    },
+    {
         "code": "1204",
         "severity": "ERROR",
         "model": "LUBA 2 AWD 5000HX",
         "text": "Auto recharge failed (cannot find route back to charger)"
+    },
+    {
+        "code": "1217",
+        "severity": "ERROR",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Unknown"
     },
     {
         "code": "1300",
@@ -124,6 +166,12 @@
         "severity": "ERROR",
         "model": "LUBA 2 AWD 5000HX",
         "text": "Battery critically low"
+    },
+    {
+        "code": "2709",
+        "severity": "ERROR",
+        "model": "LUBA 2 AWD 5000HX",
+        "text": "Battery voltage is low please recharge."
     },
     {
         "code": "2713",
