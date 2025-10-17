@@ -2,277 +2,277 @@
     {
         "code": "086",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Login/region/network issue"
     },
     {
         "code": "111",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Left front hub motor temperature too high"
     },
     {
         "code": "316",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Left cutting disk motor overheating"
     },
     {
         "code": "318",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Left cutting disk motor sensor failure"
     },
     {
         "code": "323",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Right cutter / cutting disk motor overload"
     },
     {
         "code": "325",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Right cutting disk motor fails to start"
     },
     {
         "code": "326",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Right cutting disk motor overheating"
     },
     {
         "code": "328",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Right cutting disk motor sensor failure"
     },
     {
         "code": "1003",
-        "severity": "INFO",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "WARNING",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Trigger storm water sensor (wet conditions detected)"
     },
     {
         "code": "1004",
         "severity": "INFO",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Unknown"
     },
     {
         "code": "1005",
         "severity": "INFO",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "The battery is too low / low electrical recharging. Robot will recharge then finish."
     },
     {
         "code": "1008",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Left wheel stuck"
     },
     {
         "code": "1010",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Poor positioning prevents task start."
     },
     {
         "code": "1019",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Can't execute action (mapping issue or locked)"
     },
     {
         "code": "1021",
-        "severity": "INFO",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "WARNING",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Th3 3D obstacle avoidance function is disabled due to low image quality."
     },
     {
         "code": "1026",
         "severity": "INFO",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Outside working hours"
     },
     {
         "code": "1068",
-        "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "WARNING",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Perimeter lap issue during zigzag start."
     },
     {
         "code": "1100",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Out of task area / in a no-go zone"
     },
     {
         "code": "1101",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Lack of connection channel between charging station and task area."
     },
     {
         "code": "1139",
-        "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "WARNING",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Adaptive zigzag path generation failed."
     },
     {
         "code": "1161",
-        "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "INFO",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Unknown"
     },
     {
         "code": "1169",
-        "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "INFO",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Unknown"
     },
     {
         "code": "1200",
-        "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "WARNING",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "No IR signal detected, recharge failed."
     },
     {
         "code": "1201",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Robot is stuck and needs manual rescue"
     },
     {
         "code": "1202",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Cutting plate stuck (foreign object)"
     },
     {
         "code": "1203",
-        "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "INFO",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Unknown"
     },
     {
         "code": "1204",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Auto recharge failed (cannot find route back to charger)"
     },
     {
         "code": "1217",
-        "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "INFO",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Unknown"
     },
     {
         "code": "1300",
-        "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "WARNING",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Poor positioning (GNSS / satellite signal issue)"
     },
     {
         "code": "1301",
-        "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "WARNING",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Charging station has been moved"
     },
     {
         "code": "1302",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Auto direction error"
     },
     {
         "code": "1420",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Timeout occurred while retrieving wheel speed data"
     },
     {
         "code": "2700",
-        "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "WARNING",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Battery critically low"
     },
     {
         "code": "2709",
-        "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "WARNING",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Battery voltage is low please recharge."
     },
     {
         "code": "2713",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Charging stopped due to low battery voltage"
     },
     {
         "code": "2726",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Battery overcharged"
     },
     {
         "code": "2727",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Battery over-discharged"
     },
     {
         "code": "2728",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Fails to start even when charged (docking adapter / docking issue)"
     },
     {
         "code": "2735",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "High temperature / charging station fault suspected"
     },
     {
         "code": "2800",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "STOP button pressed"
     },
     {
         "code": "2801",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Lift sensor triggered (robot lifted)"
     },
     {
         "code": "2804",
-        "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "WARNING",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Robot control delayed due to poor Bluetooth connection"
     },
     {
         "code": "50019",
-        "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "severity": "WARNING",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Poor Bluetooth connection"
     },
     {
         "code": "50611",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Firmware update error."
     },
     {
         "code": "50612",
         "severity": "ERROR",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "Firmware update error."
     },
     {
         "code": "7000107",
         "severity": "INFO",
-        "model": "LUBA 2 AWD 5000HX",
+        "model": ["LUBA 2 AWD 5000HX"],
         "text": "UNKNOWN"
     }
 ]
