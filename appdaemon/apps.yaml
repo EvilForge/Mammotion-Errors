@@ -1,0 +1,24 @@
+# Add Luba2awd5000x exception call here.
+BY_Luba2AWD_Alerts:
+  module: robots 
+  class: robotalert
+  error_notify:
+    - entity: notify.pushover.myphone
+  info_notify:
+    - entity: notify.pushover.myphone
+  device: lawn_mower.garth
+  battery: sensor.garth_battery
+  progress: sensor.garth_progress
+  charge_status: binary_sensor.garth_charging
+  friendly_name: "Garth mower"
+  error: sensor.garth_last_error_code
+  error_text: sensor.garth_last_error
+  error_date: sensor.garth_last_error_time
+
+NotifyTesting:
+  module: robots
+  class: notifytest
+  alexa_notify:
+    - entity: notify.living_room_speak
+  device: input_button.test_appdaemon
+  friendly_name: "Test Button"
