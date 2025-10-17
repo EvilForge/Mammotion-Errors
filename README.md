@@ -5,7 +5,7 @@ Programmatically or via the app, you can see the error description and code, but
 
 Its true that the manuals provide some of this information, but not everything. Your paper owners manual also does not get updated when they update the firmware... 
 
-So, i'll start this by putting up some info i have gathered. I only have one model, however so my error may not be exactly what another model uses (like the normal battery low error code 1005 may mean something more serious on other models..).
+So, i'll start this by putting up some info i have gathered. I only have one model, however, so my error may not be exactly what another model uses (like the normal battery low error code 1005 may mean something more serious on other models..). Add more models as verified into the model string array.
 
 I AM OPEN TO UPDATES!  I would love it if other owners can add or correct things.. also I really only speak english natively, and I'd mangle another translation I am certain, but I dont mind keeping other language files here.
 
