@@ -20,3 +20,5 @@ Heres the fields:
 As far as different languages i think its bettter to separate them by file... 
 
 NOTE - if you use the Home Assistant Plugin (https://github.com/mikey0000/Mammotion-HA) you can use the logbook or history to see your previously recorded errors and codes (add the last_error and last_error_code to the history chart to correlate them). If you pipe your HA info to Prometheus/VictoriaMetrics its possible to get a list of all the numbers using PromQL too..
+
+REGARDING APPDAEMON - I use Appdaemon with Home Assistant to try and make the robot monitoring smarter.. some of the Appdaemon python code is also in this repo. Copy the mammotion error json to the same folder as the python scripts. And of course, alter the json to suit your preferences. Remember that Appdaemon only reloads when a python app or the app.yaml updates, so restart appdaemon manually to see any new mammotion error json file changes.
