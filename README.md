@@ -13,7 +13,7 @@ I'll try to put them in a json style format, since I suspect its more useful to 
 
 Heres the fields:
 1. Error Number - an integer (hopefully.. if they start putting alpha chars into error numbers.. it's ok.)
-2. Severity - Info, Warning, Error, Debug. This is a bit subjective.
+2. Severity - INFO, WARNING, ERROR, IGNORE. This is a bit subjective. (I got a ton of these weird 7000107 errors with absolutely no issues using the product. So I now added IGNORE.)
 3. Model(s) - a list of models this might apply to.
 4. Error Text - If Mammotion supplies a text string to go with it, put it here. IF the ERROR IS UNKNOWN, state as much: "UNKNOWN"
 
