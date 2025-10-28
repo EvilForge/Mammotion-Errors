@@ -186,6 +186,12 @@
         "text": "Auto direction error."
     },
     {
+        "code": "1415",
+        "severity": "ERROR",
+        "model": ["LUBA 2 AWD 5000HX"],
+        "text": "Mowing area selection is invalid. Please re-select."
+    },
+    {
         "code": "1420",
         "severity": "ERROR",
         "model": ["LUBA 2 AWD 5000HX"],
